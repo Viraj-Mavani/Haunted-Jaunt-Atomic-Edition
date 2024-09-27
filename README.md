@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is based on the **Unity tutorial**: [John Lemon's Haunted Jaunt - 3D Beginner](https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner?uv=2020.3). It is a beginner-friendly project that introduces basic Unity concepts like 3D environment setup, player movement, and basic interactions.
+This project is based on the **Unity tutorial**: [John Lemon's Haunted Jaunt - 3D Beginner](https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner?uv=2020.3). It introduces basic Unity concepts like 3D environment setup, player movement, and basic interactions.
 
 In this enhanced version, several additional features and modifications have been implemented to extend the original gameplay and improve the overall experience.
 
@@ -33,7 +33,7 @@ In this enhanced version, several additional features and modifications have bee
 - Implemented a **dynamic health system** where the player’s health decreases upon taking damage and increases by collecting health items.
 - **Multi-colored health bar**: The health bar changes color based on the player’s health:
   - Green (Full health)
-  - Yellow (50% or lower health)
+  - Yellow (70% or lower health)
   - Red (30% or lower health)
 - If the player’s health drops **below 50%**, running is disabled.
 - If the health drops **below 30%**, a pulse sound effect plays, indicating critical health.
@@ -46,8 +46,10 @@ In this enhanced version, several additional features and modifications have bee
 1. **Clone the Repository**:  
    Use the following command to clone the project:
    ```
-   git clone <repository-url>
+   [git clone <repository-url>](https://github.com/Viraj-Mavani/Haunted-Jaunt-Atomic-Edition.git)
    ```
+
+   or You can download the project files and extract them to a local directory.
 
 2. **Open the Project in Unity**:  
    Open the project in Unity Editor (2020.3 or later).
@@ -58,4 +60,4 @@ In this enhanced version, several additional features and modifications have bee
 ## Credits
 
 - **Unity Tutorial**: This project is originally based on the Unity 3D beginner tutorial "[John Lemon's Haunted Jaunt](https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner?uv=2020.3)".
-- **Modifications**: All enhancements, including the running mechanic, health system, main menu, pause menu, and mini-map, were implemented by Viraj Mavani.
+- **Modifications**: All enhancements, including the running mechanic, health system, main menu, pause menu, and mini-map, were implemented by Me.
