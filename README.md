@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is based on the **Unity tutorial**: [John Lemon's Haunted Jaunt - 3D Beginner](https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner?uv=2020.3). It is a beginner-friendly project that introduces basic Unity concepts like 3D environment setup, player movement, and basic interactions.
+This project is based on the **Unity tutorial**: [John Lemon's Haunted Jaunt - 3D Beginner](https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner?uv=2020.3). It introduces basic Unity concepts like 3D environment setup, player movement, and basic interactions.
 
 In this enhanced version, several additional features and modifications have been implemented to extend the original gameplay and improve the overall experience.
 
